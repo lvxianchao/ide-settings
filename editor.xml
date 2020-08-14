@@ -4,4 +4,7 @@
     <option name="FONT_FAMILY" value="Monaco" />
     <option name="LINE_SPACING" value="1.1" />
   </component>
+  <component name="EditorSettings">
+    <option name="SHOW_BREADCRUMBS" value="false" />
+  </component>
 </application>
