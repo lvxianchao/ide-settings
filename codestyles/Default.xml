@@ -29,7 +29,7 @@
     <option name="HEX_COLOR_SHORT_FORMAT" value="true" />
   </ScssCodeStyleSettings>
   <VueCodeStyleSettings>
-    <option name="INDENT_CHILDREN_OF_TOP_LEVEL" value="template,style" />
+    <option name="INDENT_CHILDREN_OF_TOP_LEVEL" value="template,style,script" />
   </VueCodeStyleSettings>
   <editorconfig>
     <option name="ENABLED" value="false" />
