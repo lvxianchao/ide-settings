@@ -1,5 +1,10 @@
 <code_scheme name="Default" version="173">
   <option name="RIGHT_MARGIN" value="1000" />
+  <PHPCodeStyleSettings>
+    <option name="COMMA_AFTER_LAST_ARRAY_ELEMENT" value="true" />
+    <option name="VARIABLE_NAMING_STYLE" value="SNAKE_CASE" />
+    <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
+  </PHPCodeStyleSettings>
   <VueCodeStyleSettings>
     <option name="INDENT_CHILDREN_OF_TOP_LEVEL" value="template,script,style" />
   </VueCodeStyleSettings>
