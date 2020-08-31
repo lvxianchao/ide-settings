@@ -1,8 +1,15 @@
 <code_scheme name="Default" version="173">
   <option name="RIGHT_MARGIN" value="1000" />
+  <HTMLCodeStyleSettings>
+    <option name="HTML_UNIFORM_INDENT" value="true" />
+    <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="" />
+  </HTMLCodeStyleSettings>
   <PHPCodeStyleSettings>
+    <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
+    <option name="ALIGN_PHPDOC_COMMENTS" value="true" />
     <option name="COMMA_AFTER_LAST_ARRAY_ELEMENT" value="true" />
-    <option name="VARIABLE_NAMING_STYLE" value="SNAKE_CASE" />
+    <option name="PHPDOC_BLANK_LINE_BEFORE_TAGS" value="true" />
+    <option name="PHPDOC_BLANK_LINES_AROUND_PARAMETERS" value="true" />
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
   </PHPCodeStyleSettings>
   <VueCodeStyleSettings>
@@ -17,34 +24,9 @@
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
     <option name="BLOCK_COMMENT_AT_FIRST_COLUMN" value="false" />
   </codeStyleSettings>
-  <codeStyleSettings language="JSON">
-    <indentOptions>
-      <option name="INDENT_SIZE" value="4" />
-    </indentOptions>
-  </codeStyleSettings>
-  <codeStyleSettings language="LESS">
-    <indentOptions>
-      <option name="INDENT_SIZE" value="4" />
-    </indentOptions>
-  </codeStyleSettings>
   <codeStyleSettings language="PHP">
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
     <option name="LINE_COMMENT_ADD_SPACE" value="true" />
-  </codeStyleSettings>
-  <codeStyleSettings language="SASS">
-    <indentOptions>
-      <option name="INDENT_SIZE" value="4" />
-    </indentOptions>
-  </codeStyleSettings>
-  <codeStyleSettings language="SCSS">
-    <indentOptions>
-      <option name="INDENT_SIZE" value="4" />
-    </indentOptions>
-  </codeStyleSettings>
-  <codeStyleSettings language="Stylus">
-    <indentOptions>
-      <option name="INDENT_SIZE" value="4" />
-    </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="Vue">
     <indentOptions>
