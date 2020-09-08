@@ -1,0 +1,32 @@
+<keymap version="1" name="Default for macOS copy" parent="Mac OS X 10.5+">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
+  <action id="Console.TableResult.Reload" />
+  <action id="DatabaseView.Refresh" />
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
+  <action id="GotoSymbol" />
+  <action id="GotoTest" />
+  <action id="IlluminatedCloud.SaveAll">
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
+  <action id="Images.ShowThumbnails" />
+  <action id="ParameterInfo" />
+  <action id="Refresh" />
+  <action id="Replace" />
+  <action id="Rerun" />
+  <action id="RunDashboard.ShowConfigurations" />
+  <action id="SaveAll" />
+  <action id="Terminal.OpenInTerminal">
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
+  <action id="Vcs.Log.Refresh" />
+  <action id="Vcs.UpdateProject" />
+  <action id="hg4idea.QRefresh" />
+</keymap>
